@@ -1,0 +1,518 @@
+
+.print-quot {
+  background: #ffffff;
+  padding-left: 15px;
+  padding-right: 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  width: 101.5%;
+}
+
+.logo-div {
+  border-right: 1px solid #000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.print-quot1 {
+  border-right: 1px solid #000;
+  padding-top: 33px;
+  padding-bottom: 33px;
+}
+
+.print-quot1 h1 {
+  margin: 0px;
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+}
+.print-quot3 {
+  float: right;
+  width: 30%;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-size: 14px;
+  margin-left:-39%;
+}
+
+.pt-right {
+  color: #202020;
+  font-weight: 600;
+}
+.outerShell {
+  max-width: 1000px;
+  padding: 0 40px;
+
+}
+
+.print-detail1 {
+  background: #ffffff;
+  padding: 10px 10px 0px 10px;
+  margin: 15px;
+  border: 1px solid #000;
+  min-height: 161px;
+  width: 98%;
+}
+.print-detail1 h5 {
+  margin: 0px;
+
+  color: #484848;
+  margin-bottom: 3px;
+  font-weight: 600;
+}
+.print-detail1 h1 {
+  margin: 0px;
+  font-size: 17px;
+  color: #000000;
+  margin-bottom: 8px;
+}
+.print-detail1 p {
+  padding-left: 0px;
+}
+
+.left1 {
+  padding-right: 7px;
+}
+
+.right1 {
+  padding-left: 7px;
+}
+.pd3 {
+  min-height: 168px;
+}
+.print-detail3 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+height: 171px;
+}
+/* .print-detail39 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+height: 171px;
+} */
+.print-detail39 h1 {
+  margin: 0px;
+  font-size: 14px;
+  color: #484848;
+  margin-bottom: 5px;
+  font-weight: 600;
+  padding-left: 5px;
+}
+.print-detail3 h1 {
+  margin: 0px;
+  font-size: 14px;
+  color: #484848;
+  margin-bottom: 5px;
+  font-weight: 600;
+  padding-left: 5px;
+}
+
+.print-vendor {
+  background: #ffffff;
+  padding: 5px 10px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+  min-height: 125px;
+  line-height: 146%;
+}
+
+.pd3a {
+  padding-bottom: 25px;
+  min-height: 125px;
+}
+.print-detail3 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+}
+
+.dash-pr {
+  margin-top: 15px;
+  text-align: left;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 0px;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 14px;
+  width: 930px;
+}
+
+.print-table1 {
+  background: #ffffff;
+  padding: 0px;
+  margin-top: 15px;
+  border-radius: 0px;
+  border: 1px solid #000;
+  font-size: 14px;
+  width: 928px;
+  margin-left: 16px;
+}
+
+.print-table1 table {
+  width: 100%;
+  text-align: center;
+  color: #000000;
+  
+}
+
+.print-table1 table th:nth-child(1) {
+  width: 5%;
+}
+.print-table1 table th:first-child {
+  border-top-left-radius: 10px;
+}
+.print-table1 table th {
+  text-align: center;
+  background: #fff;
+  color: #272727;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+.print-table1 table th {
+  font-weight: 400;
+}
+
+.print-table1 table td {
+  padding: 5px;
+  margin-top: 5px;
+  border: 1px solid #000!important;
+}
+
+.mt-2, .my-2 {
+  margin-top: .5rem!important;
+  margin-left: 2px;
+}
+
+.print-total {
+  margin-top: 15px;
+  float: right;
+  width: 115%;
+  font-size: 15px;
+  margin-left: 156px;
+}
+.tl1 {
+  border-top-left-radius: 0px;
+  border-bottom: none;
+}
+.tot-left {
+  background: #fff;
+  color: #000;
+  border: 1px solid #000;
+  padding: 5px;
+  padding-left: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.tr1 {
+  border-top-right-radius: 0px;
+  border-bottom: none;
+}
+.tot-right {
+  background: #ffffff;
+  color: #181818;
+  border: 1px solid #000;
+  border-left: none;
+  padding: 5px;
+  text-align: right;
+  padding-right: 30px;
+}
+.clearfix::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.print-total1{
+  text-align: right;
+}
+.print-total1 h4 {
+  margin: 0px;
+  color: #000;
+  font-size: 20px;
+   font-weight: 600;
+  line-height: 24px;
+  margin-top: 15px;
+  text-align: right;
+  margin-left: 416px;
+}
+
+.print-total1 h4 span {
+  font-weight: 400;
+  font-size: 15px;
+  text-transform: capitalize;
+}
+.dash-terms {
+  background: #ffffff;
+  padding: 0px;
+   border-radius: 0px;
+  }
+.pt-0, .py-0 {
+  padding-top: 0!important;
+}
+.mt-0, .my-0 {
+  margin-top: 0!important;
+  margin-left: 19px;
+
+}
+.dash-terms h1 {
+  margin: 0px;
+  font-size: 16px;
+  background: none;
+    color: #000;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.dash-terms p {
+  margin-bottom: 3px;
+}
+
+.bot-cl {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.bot-cl2 {
+  background: #ffffff;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 0px;
+  border: 1px solid #000;
+  width: 46%;
+  height: 163px;
+  line-height: 30px;
+
+}
+
+.bot-cl2 .bot-left {
+  padding-left: 20px;
+}
+.bot-left {
+  color: #000;
+  font-weight: 600;
+  padding-left: 40px;
+  font-size: 14px;
+  padding-right: 3px;
+}
+.bot-right {
+  color: #000;
+  font-size: 14px;
+  padding-left: 3px;
+}
+
+.bot-cl3 {
+  background: #ffffff;
+  padding: 10px;
+  padding-right: 20px;
+  margin-top: 15px;
+  border-radius: 0px;
+  border: 1px solid #000;
+  width: 51%;
+  text-align: center;
+  height: 163px;
+  margin-left: 20px;
+}
+
+.bot-cl h1 {
+  margin: 0px;
+  font-size: 16px;
+  background: none;
+  color: #000000;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+
+.bot-cl3 h5 {
+  margin: 0px;
+  font-size: 13px;
+  color: #111111;
+  margin-top: 60px;
+  line-height: 22px;
+}
+
+.bot-cl3 h4 {
+  margin: 0px;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #000;
+  margin-top: 10px;
+}
+
+
+.outerShell1 {
+  max-width: 1000px;
+  padding: 0 12px;  
+}
+
+
+.print-quot22 {
+  background: #ffffff;
+  padding-left: 15px;
+  padding-right: 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  width: 120.5%;
+}
+
+.print-quot33 {
+  /* float: right; */
+  width: 30%;
+  margin-top: 38px;
+  margin-bottom: 6px;
+  font-size: 14px;
+  margin-left: 4%;
+}
+.quot-hd {
+  margin: 0px;
+  font-size: 17px;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.print-detail11 {
+  background: #ffffff;
+  padding: 10px 10px 0px 10px;
+  /* margin: 15px; */
+  border: 1px solid #000;
+  min-height: 168px;
+  width: 118%;
+  margin-top: 10px;
+}
+.print-detail11 h1 {
+  margin: 0px;
+  font-size: 17px;
+  color: #000000;
+  margin-bottom: 8px;
+}
+
+
+.print-detail34 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+  margin-left: 81px;
+  width: 601px;
+   margin-top: 11px;
+  height: 47px;
+  padding: 14px;
+  line-height: 41px;
+}
+
+.print-detail34 h1 {
+  margin: 0px;
+  font-size: 14px;
+  color: #484848;
+  margin-bottom: 5px;
+  font-weight: 600;
+  padding-left: 5px;
+}
+
+
+.dash-pr1 {
+  margin-top: 15px;
+  text-align: left;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 0px;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: -1px;
+  width: 1179px;
+}
+
+.table-bordered td, .table-bordered th {
+  border: 2px solid #000!important;
+}
+
+.aboutclient {
+  margin-left: 20px;
+  margin-top: 30px;
+  font-weight: 500;
+}
+
+.clientarea{
+  font-weight: 500;
+}
+
+
+
+.bot-cl7 {
+  background: #ffffff;
+  padding: 10px;
+  padding-right: 20px;
+  margin-top: -163px;
+  border-radius: 0px;
+  border: 1px solid #000;
+  width: 58%;
+  text-align: center;
+  height: 163px;
+  margin-left: 600px;
+}
+
+
+.bot-cl24 {
+  background: #ffffff;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 0px;
+  border: 1px solid #000;
+  width: 59%;
+  height: 163px;
+  line-height: 30px;
+}
+
+
+.ent{margin-top: 98px;
+font-size: 14px;
+}
+
+.print-detail39 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+  width: 123.5%;
+  height: 159px;
+}
+
+.print-detail40 {
+  background: #ffffff;
+  padding: 10px 5px;
+  margin-top: 15px;
+  border: 1px solid #000;
+  color: #000;
+  width: 120.5%;
+  height: 159px;
+}
+
+.print-detail40 h1 {
+  margin: 0px;
+  font-size: 14px;
+  color: #484848;
+  margin-bottom: 5px;
+  font-weight: 600;
+  padding-left: 5px;
+}
