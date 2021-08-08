@@ -148,7 +148,7 @@ height: 171px;
   padding-top: 5px;
   padding-bottom: 5px;
   margin-left: 14px;
-  width: 930px;
+  width: 275%;
 }
 
 .print-table1 {
@@ -158,7 +158,7 @@ height: 171px;
   border-radius: 0px;
   border: 1px solid #000;
   font-size: 14px;
-  width: 928px;
+  width: 935px;
   margin-left: 16px;
 }
 
@@ -494,8 +494,8 @@ font-size: 14px;
   margin-top: 15px;
   border: 1px solid #000;
   color: #000;
-  width: 123.5%;
-  height: 159px;
+  width: 100.5%;
+  height: 91%;
 }
 
 .print-detail40 {

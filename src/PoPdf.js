@@ -478,7 +478,7 @@ function PoPdf(props) {
                   <div className="row">
                     <div className="col-sm-6 pri-field-head">Start:</div>
                     <div className="col-sm-6 pri-field-data14">
-                      {postartdate}26/021993
+                      {postartdate}
                     </div>
                   </div>
 
