@@ -149,6 +149,7 @@ height: 171px;
   padding-bottom: 5px;
   margin-left: 14px;
   width: 937px;
+  word-break: break-word;
 }
 
 .print-table1 {
